@@ -1,4 +1,4 @@
-package main
+package sorting
 
 func merge(arr1, arr2 []int) []int {
 	var sortedArr []int
